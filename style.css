@@ -1,1 +1,9 @@
 /*Stylesheet for designing the landing page project*/
+
+body{
+    font-family: Roboto,sans-serif;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
