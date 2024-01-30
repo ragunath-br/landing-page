@@ -17,8 +17,7 @@ body{
     color:white;
     justify-content: flex-start;
     align-items:center;
-    width:1000px;
-    
+    width:1000px;    
 }
 .header a{
     text-decoration: none;
@@ -39,4 +38,33 @@ body{
     font-weight: bold;
     color: #F9F8FA;
     margin:20px;
+}
+
+/* Design of Sign Up Banner */
+
+.signup-banner{
+    width:1000px;
+    display:flex;
+    background-color: #1F2937;
+    color:white; 
+    justify-content:space-around;
+      
+}
+
+.signup-banner img{
+    width:600px;
+    height:250px;
+    margin:20px 20px 30px 10px;
+}
+
+.signup-description{
+    margin:20px 10px 30px 20px;
+}
+
+.sign-up{
+    background-color: #3882F6;
+    border:none;
+    color:#F9F8FA;
+    border-radius: 5px;
+    padding: 8px 16px;
 }
