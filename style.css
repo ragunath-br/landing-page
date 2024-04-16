@@ -99,3 +99,21 @@ body{
 .info-box{
     width:120px;
 }
+
+/* STYLING FOR THE QUOTE BOX */
+
+.quote-box{
+    background-color:#E5E7EB;
+    padding:50px 20px;
+}
+
+.quote-box h2{
+    font-size:36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.quote-box h3{
+    text-align:right;
+}
