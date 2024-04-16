@@ -53,7 +53,7 @@ body{
 
 .signup-banner img{    
     width:600px;
-    height:250px;
+    height:350px;
     margin:20px 20px 30px 10px;
 }
 
@@ -69,3 +69,33 @@ body{
     padding: 8px 16px;
 }
 
+/* CSS FOR ICON BANNER */
+
+.icon-banner{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.icon-banner h2{
+    text-align:center;
+}
+
+.info-container{
+    display:flex;
+    justify-content: space-around;
+    align-items:flex-start;
+    
+}
+
+.info-box img{
+    width:150px;
+    height:150px;
+    border:3px solid #3882F6;
+    border-radius:5px;
+}
+
+.info-box{
+    width:120px;
+}
