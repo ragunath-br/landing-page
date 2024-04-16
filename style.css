@@ -5,7 +5,7 @@ body{
     font-size: 18px;
     display: flex;
     flex-direction: column;    
-    align-items: center;
+    align-items: stretch;
     background-color: whitesmoke;
     padding:0px;
     margin:0px;
@@ -17,7 +17,7 @@ body{
     color:white;
     justify-content: flex-start;
     align-items:center;
-    width:1000px;    
+       
 }
 .header a{
     text-decoration: none;
@@ -43,7 +43,7 @@ body{
 /* Design of Sign Up Banner */
 
 .signup-banner{
-    width:1000px;
+    
     display:flex;
     background-color: #1F2937;
     color:white; 
@@ -51,7 +51,7 @@ body{
       
 }
 
-.signup-banner img{
+.signup-banner img{    
     width:600px;
     height:250px;
     margin:20px 20px 30px 10px;
@@ -68,3 +68,4 @@ body{
     border-radius: 5px;
     padding: 8px 16px;
 }
+
