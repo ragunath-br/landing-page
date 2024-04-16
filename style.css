@@ -117,3 +117,21 @@ body{
 .quote-box h3{
     text-align:right;
 }
+
+/*STYLING OF ANOTHER SIGNUP TAB */
+.another-signup{
+    padding:50px 150px;
+    color:white;
+}
+
+.signup-container{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    background-color:#3882F6;
+}
+
+button.sign-up{
+    font-weight:bold;
+    border:2px solid white;
+}
